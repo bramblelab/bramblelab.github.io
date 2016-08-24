@@ -1,16 +1,10 @@
-<footer id="elsewhere">
+<footer>
   <h2>Elsewhere</h2>
   <ul>
-    <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    {% if site.github_username %}
-    <li>
-      {% include username=site.facebook_username %}
-    </li>
-    {% endif %}
-
+    <li><a href="mailto:{{ site.email }}">E-mail</a></li>
     {% if site.twitter_username %}
     <li>
-      {% include username=site.twitter_username %}
+      <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</li>
     </li>
     {% endif %}
   </ul>

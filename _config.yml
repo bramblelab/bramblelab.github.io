@@ -15,7 +15,6 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bramblelab.com" # the base hostname & protocol for your site
 twitter_username: bramblelab
-facebook_username:  bramblelab
 
 # Build settings
 markdown: kramdown

@@ -1,23 +1,53 @@
 ---
-layout: default
+layout: home
 ---
+<header>
+  <p>A design firm for good.</p>
+</header>
 
-<div class="home">
+<section id="services">
+  <div class="row">
+    <div>
+      <img src="/svg/research.svg"/>
+      <p>Research</p>
+    </div>
+    <div>
+      <img src="/svg/branding.svg"/>
+      <p>Branding</p>
+    </div>
+    <div>
+      <img src="/svg/design.svg"/>
+      <p>Design</p>
+    </div>
+  </div>
+</section>
 
-  <h1 class="page-heading">Posts</h1>
+<section id="about">
+  <h2>About</h2>
+  <p>Based out of the Baltimore Impact Hub, Bramble Lab is a social design initiative and design firm. Our passion lies in the belief that education is a fundamental human right, and that design is a powerful tool in securing that right. To that end, we work with organizations from across the city at the intersection of education, public health and policy.</p>
+</section>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+<section id="work">
+  <h2>Work</h2>
+  <ul>
+    {% for work in site.data.works %}
+    <li>
+      <h3><a href="{{ work.link }}">{{ work.title }}</a></h3>
+      <p>{{ work.client }}</p>
+      <p>{{ work.story }}</p>
+    </li>
     {% endfor %}
   </ul>
+</section>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<section id="team">
+  <h2>Team</h2>
+  <ul>
+    {% for member in site.data.members %}
+    <li>
+      <h3><a href="{{ member.link }}">{{ member.name }}</a></h3>
+      <p>{{ member.story }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
