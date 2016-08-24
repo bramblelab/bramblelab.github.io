@@ -1,8 +1,13 @@
 ---
+title: Grade Level Reading Campaign
+date: 2016-03-01 00:00:00 Z
+permalink: "/bcglr/"
+categories:
+- featured
+- research
+- branding
+- design
 layout: post
-title:  Grade Level Reading Campaign
-permalink: /bcglr/
-categories: featured research branding design
 ---
 
 In the fall of 2014, Social Design Associate Becky Slogeris convened a cohort of 7 MICA graduate students to work on a branding, products and services for the Baltimore Campaign for Grade Level Reading. A year and a half later, the B'more Read More campaign was officially commenced.
