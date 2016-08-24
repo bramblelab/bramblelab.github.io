@@ -10,14 +10,29 @@ layout: home
     <div>
       <img src="/svg/research.svg"/>
       <p>Research</p>
+      <ul>
+        <li>Design Thinking</li>
+        <li>User Research</li>
+        <li>Prototyping</li>
+      </ul>
     </div>
     <div>
       <img src="/svg/branding.svg"/>
       <p>Branding</p>
+      <ul>
+        <li>Strategy</li>
+        <li>Identity</li>
+        <li>Storytelling</li>
+      </ul>
     </div>
     <div>
       <img src="/svg/design.svg"/>
       <p>Design</p>
+      <ul>
+        <li>UX/UI Design</li>
+        <li>Graphic Design</li>
+        <li>Data Visualization</li>
+      <ul>
     </div>
   </div>
 </section>
