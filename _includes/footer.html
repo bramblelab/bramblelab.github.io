@@ -1,10 +1,15 @@
-<footer>
-  <h2>Elsewhere</h2>
+<footer id="contact">
+  <h2>Contact</h2>
   <ul>
     <li><a href="mailto:{{ site.email }}">E-mail</a></li>
     {% if site.twitter_username %}
     <li>
-      <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</li>
+      <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+    </li>
+    {% endif %}
+    {% if site.instagram_username %}
+    <li>
+      <a href="https://instagram.com/{{ site.instagram_username }}">Instagram</a>
     </li>
     {% endif %}
   </ul>

@@ -6,7 +6,7 @@ layout: home
 </header>
 
 <section id="services">
-  <div class="row">
+  <div class="row col_3">
     <div>
       <img src="/svg/research.svg"/>
       <p>Research</p>
@@ -30,12 +30,13 @@ layout: home
 <section id="work">
   <h2>Work</h2>
   <ul>
-    {% for work in site.data.works %}
-    <li>
-      <h3><a href="{{ work.link }}">{{ work.title }}</a></h3>
-      <p>{{ work.client }}</p>
-      <p>{{ work.story }}</p>
-    </li>
+    {% for post in site.posts %}
+      {% if post.categories contains 'featured' %}
+      <li>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt }}</p>
+      </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </section>
