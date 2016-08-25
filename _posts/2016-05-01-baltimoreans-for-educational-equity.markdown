@@ -1,8 +1,13 @@
 ---
+title: Mayoral Voter Guide
+date: 2016-05-01 00:00:00 Z
+permalink: "/bee/"
+categories:
+- featured
+- research
+- branding
+- design
 layout: post
-title:  Mayoral Voter Guide
-permalink: /bee/
-categories: featured research branding design
 ---
 
 In early 2016, we read about advocacy work done by Baltimoreans for Educational Equity to bring transparency to the salaries of Full-Time Equivalent employees in the City Schools Budget.

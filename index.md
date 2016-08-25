@@ -1,6 +1,7 @@
 ---
 layout: page-layout
 ---
+
 <header>
   <p>A design firm for good.</p>
 </header>

@@ -7,13 +7,19 @@
 
 # Site settings
 title: bramble lab
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: cary@bramblelab.com
-description: > # this means to ignore newlines until "baseurl:"
+description: |
   Based out of the Baltimore Impact Hub, Bramble Lab is a social design initiative and design firm. Our passion lies in the belief that education is a fundamental human right, and that design is a powerful tool in securing that right. To that end, we work with organizations from across the city at the intersection of education, public health and policy.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bramblelab.com" # the base hostname & protocol for your site
+baseurl:
+url: http://bramblelab.com
 twitter_username: bramblelab
 instagram_username: bramblelab
-
-# Build settings
 markdown: kramdown
