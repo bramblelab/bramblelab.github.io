@@ -9,16 +9,16 @@ body {
 		margin: 0 auto;
 }
 
-.home{
+.page{
 	color:rgba(255,255,255,1);
 	background:rgba(0, 180, 240,1);
 }
 
-.home section a:after{
+.page section a:after{
 	content:" ↗"
 }
 
-.work{
+.post{
 	color:rgba(0, 180, 240,1);
 	background:rgba(255,255,255,1);
 }

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page-layout
 ---
 <header>
   <p>A design firm for good.</p>
@@ -10,36 +10,21 @@ layout: home
     <div>
       <img src="/svg/research.svg"/>
       <p>Research</p>
-      <ul>
-        <li>Design Thinking</li>
-        <li>User Research</li>
-        <li>Prototyping</li>
-      </ul>
     </div>
     <div>
       <img src="/svg/branding.svg"/>
       <p>Branding</p>
-      <ul>
-        <li>Strategy</li>
-        <li>Identity</li>
-        <li>Storytelling</li>
-      </ul>
     </div>
     <div>
       <img src="/svg/design.svg"/>
       <p>Design</p>
-      <ul>
-        <li>UX/UI Design</li>
-        <li>Graphic Design</li>
-        <li>Data Visualization</li>
-      <ul>
     </div>
   </div>
 </section>
 
 <section id="about">
   <h2>About</h2>
-  <p>Based out of the Baltimore Impact Hub, Bramble Lab is a social design initiative and design firm. Our passion lies in the belief that education is a fundamental human right, and that design is a powerful tool in securing that right. To that end, we work with organizations from across the city at the intersection of education, public health and policy.</p>
+  <p>{{ site.description }}</p>
 </section>
 
 <section id="work">
