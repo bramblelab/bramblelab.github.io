@@ -10,9 +10,9 @@ categories:
 layout: post
 ---
 
-In the fall of 2014, Social Design Associate Becky Slogeris convened a cohort of 7 MICA graduate students to work on a branding, products and services for the Baltimore Campaign for Grade Level Reading. A year and a half later, the B'more Read More campaign was officially commenced.
-
 __Fund for Educational Excellence__
+
+In the fall of 2014, Social Design Associate Becky Slogeris convened a cohort of 7 MICA graduate students to work on a branding, products and services for the Baltimore Campaign for Grade Level Reading. A year and a half later, the B'more Read More campaign was officially commenced.
 
 The following work was borne out of the partnership of campaign leaders Kimberly Manns and Carrie Finkelstein with that practice-based studio, conducting user research, design thinking workshops and collaborative ideation with the families at Cherry Hill Homes, students and parents at Mount Royal Elementary, B'More for Healthy Babies, The Family League and many others.
 
