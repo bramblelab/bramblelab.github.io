@@ -34,8 +34,6 @@ Given positive feedback, the first rendition of the Reading Labels (above) will 
 
 ![GLR Sticker 1](/img/glr_sticker_1.jpeg)
 
-Book Labels
-
 ![GLR Label 1](/img/glr_label_1.jpeg)
 
 ![GLR Label 1](/img/glr_label_2.jpeg)
