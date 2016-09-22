@@ -46,9 +46,9 @@ layout: page-layout
   </div>
 <h2>Process</h2>
 <ul>
-<li>Research: Problem definitiion, user research, prototyping and testing</li>
-<li>Branding: strategy, identity, storytelling, marketing</li>
-<li>Product: Print, Digital</li>
+<li>Problem definition, user research, prototyping and testing</li>
+<li>Strategy, branding, storytelling</li>
+<li>Print materials, Digital products</li>
 </ul>
 </section>
 
