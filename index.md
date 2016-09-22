@@ -69,12 +69,10 @@ layout: page-layout
   <h2>Team</h2>
   <ul>
 {% for member in page.members %}
-  {{ page.author.name }}
-{% endfor %}
     <li>
       <h3><a href="{{ page.member.link }}">{{ page.member.name }}</a></h3>
       <p>{{ page.member.story }}</p>
     </li>
-    {% endfor %}
+{% endfor %}
   </ul>
 </section>
