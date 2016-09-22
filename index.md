@@ -70,7 +70,7 @@ layout: page-layout
   <ul>
 {% for member in page.members %}
     <li>
-      <h3><a href="{{ members.link }}">{{ member.name }}</a></h3>
+      <h3><a href="{{ member.link }}">{{ member.name }}</a></h3>
       <p>{{ member.story }}</p>
     </li>
 {% endfor %}
