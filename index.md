@@ -22,6 +22,11 @@ members:
 
 '
   link: https://mihoshif3.myportfolio.com/projects
+description: Based out of the [Baltimore Impact Hub](http://baltimore.impacthub.net),
+  Bramble Lab is a social design initiative and design firm. Our passion lies in the
+  belief that education is a fundamental human right, and that design is a powerful
+  tool in securing that right. To that end, we work with organizations from across
+  the city at the intersection of education, public health and policy.
 layout: page-layout
 ---
 
@@ -54,7 +59,7 @@ layout: page-layout
 
 <section id="about">
   <h2>About</h2>
-  <p>{{ site.description }}</p>
+  <p>{{ description }}</p>
 </section>
 
 <section id="work">
