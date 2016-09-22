@@ -44,6 +44,12 @@ layout: page-layout
       <p>Design</p>
     </div>
   </div>
+<h2>Process</h2>
+<ul>
+<li>Research: Problem definitiion, user research, prototyping and testing</li>
+<li>Branding: strategy, identity, storytelling, marketing</li>
+<li>Product: Print, Digital</li>
+</ul>
 </section>
 
 <section id="about">
