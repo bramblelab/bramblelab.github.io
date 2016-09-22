@@ -2,7 +2,7 @@
 title: Bramble Lab
 members:
 - name: Cary Euwer
-  story: 'Cary is a social impact designer and educator. His struggles with learning
+  story: 'Cary is a social impact designer and educator. He struggles with learning
     disorders from a young age formed a passion for experiential and project-based
     learning and education reform.
 
@@ -15,10 +15,10 @@ members:
     will see him either playing basketball, or designing arabic type.\n"
   link: http://dagadego.com
 - name: Mihoshi Fukushima
-  story: 'Former 2016 Intern - She is a graphic designer and illustrator. Her passion
-    is to create works influenced by multiple cultures and values. Being open to new
-    experiences and thinking is at the heart of her work. The more she learn, the
-    more ways she will have to express myself and inspire others.
+  story: 'Mihoshi is a Former 2016 Intern - She is a graphic designer and illustrator.
+    Her passion is to create works influenced by multiple cultures and values. Being
+    open to new experiences and thinking is at the heart of her work. The more she
+    learn, the more ways she will have to express myself and inspire others.
 
 '
   link: https://mihoshif3.myportfolio.com/projects
