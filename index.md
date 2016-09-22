@@ -59,7 +59,7 @@ layout: page-layout
 
 <section id="about">
   <h2>About</h2>
-  <p>{{ description }}</p>
+  <p>{{ page['description'] }}</p>
 </section>
 
 <section id="work">
