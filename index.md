@@ -1,10 +1,10 @@
 ---
 title: Bramble Lab
-description: Based out of the [Baltimore Impact Hub](http://baltimore.impacthub.net),
-  Bramble Lab is a social design initiative and design firm. Our passion lies in the
-  belief that education is a fundamental human right, and that design is a powerful
-  tool in securing that right. To that end, we work with organizations from across
-  the city at the intersection of education, public health and policy.
+description: Based out of the <a href="http://baltimore.impacthub.net">Baltimore Impact
+  Hub</a>, Bramble Lab is a social design initiative and design firm. Our passion
+  lies in the belief that education is a fundamental human right, and that design
+  is a powerful tool in securing that right. To that end, we work with organizations
+  from across the city at the intersection of education, public health and policy.
 process: |-
   We believe that communication is crucial to a unified effort around any given problem. And to communication problems, intentions and ideas in a way that’s strategic, relevant and compelling,  design is an immensely powerful tool.
 
