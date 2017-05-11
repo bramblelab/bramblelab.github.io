@@ -1,6 +1,6 @@
 ---
 title: We Divine Water / WaterAid America
-date: 2016-03-01 00:00:00 Z
+date: 2017-05-11 00:00:00 Z
 permalink: "/wateraid/"
 categories:
 - featured
