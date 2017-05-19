@@ -1,0 +1,31 @@
+---
+title: MarylandCAN App Prototype
+date: 2016-12-01 00:00:00 Z
+permalink: "/mdcan/"
+categories:
+- featured
+- research
+- branding
+- design
+layout: post
+---
+
+Along with legislation to the same effect, this app prototype (requested by Mayor Pugh) would to allow Baltimore City public high-school students to enroll in after-school programs anywhere in city. The app allows students to enroll & pick public transportation options.
+
+### Team
+
+The team was made up of Jason Botel and Jenese Jones. The concept was conceived in part by Mayor Catherine Pugh. All icons courtesy of the Noun Project.
+
+### B'More Talented
+
+The app was designed foremost to encourage students to enroll in extracurriculars. It features an intuitive interface, crisp sans-serif font, simple icons (courtesy of the Noun Project) and a bright color palette.
+
+![MarylandCAN App Prototype](/img/mdcan_app.jpg)
+
+Presented to Mayor Pugh in tandem with legislating enabling city-wide enrollment in their choice of after-school program, the app allows students to first create a profile, inputting their name, an avatar, their school, grade and gender.
+
+After picking their interests, students are shown a map showing nearby extracurriculars available in a feasible time-frame via public transportation. Each program is color-coded by interest category to allow for easier navigation, and shows the affiliated school, times, description, enrollment criteria, transport options, contact info and a quick-enroll button.
+
+The student's profile page provides an overview of their after-school curriculum, waitlisted programs, as well as nearby featured programs.
+
+Try the prototype at https://xd.adobe.com/view/6682849a-8f2a-4e96-a361-e9ce17fa8293/
