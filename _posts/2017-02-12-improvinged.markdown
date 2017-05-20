@@ -28,6 +28,6 @@ Created as printable pdf's for time-crunched BCPSS teachers, the toolkits provid
 
 ### Bedtime in a Box
 
-Bedtime in a Box is a product including all the materials needed for a healthy bedtime routine, centered on reading. The box includes bedtime reading, pajamas, an alarm clock, and this bedtime routine checklist.
+Bedtime in a Box is a product that provides all the materials needed for a healthy bedtime routine, with the intention of building a daily reading habit. The box includes bedtime reading, pajamas, an alarm clock, and this bedtime routine checklist.
 
 ![Bedtime in a Box Routine](/img/improvinged_routine.jpg)
