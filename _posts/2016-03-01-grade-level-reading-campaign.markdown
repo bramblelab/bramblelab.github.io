@@ -68,6 +68,6 @@ At the bottom, parents can navigate local resources on a map and view tips by pa
 
 ### SMS Service & Timer App (Concept)
 
-Based on insights from parents during an East Baltimore focus group, this service would allow parents to specify ideal times of the day to read to their child, at which time a daily reading tip with a link to a timer web-app would be sent via text.
+Based on insights from parents during an East Baltimore focus group, Bramble Lab created this web app and texting service. Prompted on the B'more Read More website, this feature would allow parents to specify ideal times of the day to read to their child, at which time a daily reading tip with a link to a timer web-app would be sent via text.
 
 ![GLR Website 2](/img/glr_app_1.jpeg)
