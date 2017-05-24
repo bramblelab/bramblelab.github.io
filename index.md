@@ -6,7 +6,7 @@ description: Based out of the <a href="http://baltimore.impacthub.net">Baltimore
   is a powerful tool in securing that right. To that end, we work with organizations
   from across the city at the intersection of education, public health and policy.
 process: |-
-  We believe that communication is crucial to a unified effort around any given problem. And to communication problems, intentions and ideas in a way that’s strategic, relevant and compelling,  design is an immensely powerful tool.
+  We believe that communication is crucial to a unified effort around any given problem. And to communicate problems, intentions and ideas in a way that’s strategic, relevant and compelling,  design is an immensely powerful tool.
 
   As such, we aim to include all stakeholders’ perspectives in our process: the audience, policymakers, similar organizations, and others as needed. Social design is a tool to ground our understanding of a problem in the experience of the people going through it, thereby coming up with solutions from everyone involved.
 members:
