@@ -28,11 +28,11 @@ The brochure includes a refrigerator magnet with tips and resources to assist in
 
 ### Reading Label Post-Its
 
-The reading label post-it notes were conceived by Jessica, a parent at Cherry Hill homes. During a design thinking workshops, she shared how she'd labeled objects all over her home as a reminder to both her children and herself to engage in daily reading.
+The reading label post-it notes were conceived by Jessica, a parent at Cherry Hill Homes. During a design thinking workshop, she shared how she'd labeled objects all over her home as a reminder to both her children and herself to engage in daily reading.
 
 ![Jessica Interview](/img/glr_sticker_0.jpeg)
 
-Of all the daily reading materials, it has received the most positive feedback by far from parents across the city. Each features sample discussion questions by reading experts. Below are the first rendition and a more fleshed-out rendition of these Reading Labels.
+Of all the daily reading materials, this has received the most positive feedback from parents across the city. Each post-it features sample discussion questions by reading experts. Below are the first printing and a more fleshed-out variation of these Reading Labels.
 
 ![GLR Sticker 1](/img/glr_sticker_1.jpeg)
 
@@ -40,7 +40,7 @@ Of all the daily reading materials, it has received the most positive feedback b
 
 ### Sticker Tips for Books
 
-Building a daily reading habit with your children can seem like a daunting task. These stickers, distributed with books through Enoch Pratt libraries, Little Free Libraries, Judy Centers, Head Start and other service providers help by giving basic tips.
+Building a daily reading habit with your children can seem like a daunting task. These stickers, distributed along with books (through Enoch Pratt libraries, Little Free Libraries, Judy Centers, Head Start and other service providers) help by giving basic tips.
 
 ![GLR Label 1](/img/glr_label_1.jpeg)
 
@@ -48,23 +48,21 @@ Building a daily reading habit with your children can seem like a daunting task.
 
 ### B'more Read More Website
 
-Aside from the Daily Reading Tools, the other task was to create a website that informed and addressed parents' key concerns around reading. And those were:
+Aside from the Daily Reading Tools, the other task was to create a website that informed and addressed parents' key concerns around reading with their children. And those were:
 
 * How can I help them succeed?
 * How do I know where my child is?
 * How can I help myself?
 
-For a parent, part of getting those questions answered online is having a clear path to that information. That meant that first, the whole website had to be optimized for mobile viewing, which most visitors would be using. And second, the website needed simple, clear path to the information they need.
+For a parent, part of getting those questions answered is having a clear path to that information. That meant that the website needed to be easy to navigate and optimized for mobile viewing.
 
-![GLR Website 1](/img/glr_website_1.png)
+![GLR Website 1](/img/glr_web_1.jpeg)
 
-One of the ideas was to distill the benefits, tips and milestones of daily reading into one page that is illustrative and clear for overwhelmed parents. And that all oriented around the timeline concept used in the brochure and poster.
+One of the ideas was to distill the benefits, tips and milestones of daily reading into one page that is illustrative and clear. That all oriented around the timeline concept used in the brochure and poster.
 
-Foremost on the Parents page is a primer on the rewards of daily reading, illustrating how a small activity can amplify into a lifetime of benefits. Below that is the first question that parents have - What can I do? Parents can answer by selecting an age group, including adulthood if their own literacy is a concern. Under each age group, all appropriate tips and guidance are summed up. This includes milestones to address the other big concern that the campaign found: "How do I know where my child is?". Each has a printable PDF version for use by both parents and service providers.
+Foremost on the Parents page is a primer on the rewards of daily reading, illustrating how a small activity can amplify into a lifetime of benefits. Below that is the first question that parents have - What can I do? Parents can answer by selecting an age group, including adulthood if their own literacy is a concern. Under each age group, all appropriate tips and guidance are summed up. This includes milestones to address the other big concern that the campaign found: "How do I know where my child is?". Each section has a printable PDF version for use by both parents and service providers.
 
-At the bottom, parents can navigate local resources on a map and view tips by parents interviewed over the course of the project by GLR.
-
-![GLR Website 2](/img/glr_website_2.png)
+At the bottom, parents can navigate local resources on a map and view tips by parents interviewed over the course of the project by the campaign.
 
 ### SMS Service & Timer App (Concept)
 
