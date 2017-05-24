@@ -42,7 +42,7 @@ layout: page-layout
   <div class="row col_3">
     <div>
       <img src="/svg/research.svg"/>
-      <p>**Research**</p>
+      <p>Research</p>
     </div>
     <div>
       <img src="/svg/branding.svg"/>
