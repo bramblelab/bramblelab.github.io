@@ -14,7 +14,7 @@ In the fall of 2014, Social Design Associate Becky Slogeris convened a cohort of
 
 The following work was borne out of the partnership of campaign leaders Kimberly Manns and Carrie Finkelstein with that practice-based studio, conducting user research, design thinking workshops and collaborative ideation with the families at Cherry Hill Homes, students and parents at Mount Royal Elementary, B'More for Healthy Babies, The Family League and many others.
 
-Thank you to the rest of the cohort - Emily Ianaconne (MASD '15), Maysan Madani (MASD '15), Meltem Sahin, Becky Slogeris (MASD '12), Jen Sullivan (MASD '15) and Li Zhang - upon whose work this was based.
+Thank you to the coalition members, families and, particuarly, the rest of MICA cohort – Becky Slogeris (MASD '12), Jen Sullivan (MASD '15), Emily Ianaconne (MASD '15), Maysan Madani (MASD '15), Meltem Sahin, and Li Zhang – upon whose insights and work this was based.
 
 ### Daily Reading Tools - Brochure
 
@@ -26,11 +26,21 @@ The brochure includes a refrigerator magnet with tips and resources to assist in
 
 ![GLR Brochure 2](/img/glr_brochure_2.jpeg)
 
-### Reading Label Post-Its, Book Label
+### Reading Label Post-Its
 
-Given positive feedback, the first rendition of the Reading Labels (above) will be further developed into the below renditions.
+The reading label post-it notes were conceived by Jessica, a parent at Cherry Hill homes. During a design thinking workshops, she shared how she'd labeled objects all over her home as a reminder to both her children and herself to engage in daily reading.
+
+![Jessica Interview](/img/glr_sticker_0.jpeg)
+
+Of all the daily reading materials, it has received the most positive feedback by far from parents across the city. Below are the first rendition and a more fleshed-out rendition of these Reading Labels.
 
 ![GLR Sticker 1](/img/glr_sticker_1.jpeg)
+
+![GLR Sticker 2](/img/glr_sticker_2.jpeg)
+
+### Sticker Tips for Books
+
+Building a daily reading habit with your children can seem like a daunting task. These stickers, distributed with books through Enoch Pratt libraries, Little Free Libraries, Judy Centers, Head Start and other service providers help by giving basic tips.
 
 ![GLR Label 1](/img/glr_label_1.jpeg)
 
@@ -55,3 +65,9 @@ Foremost on the Parents page is a primer on the rewards of daily reading, illust
 At the bottom, parents can navigate local resources on a map and view tips by parents interviewed over the course of the project by GLR.
 
 ![GLR Website 2](/img/glr_website_2.png)
+
+### SMS Service & Timer App (Concept)
+
+Based on insights from parents during an East Baltimore focus group, this service would allow parents to specify ideal times of the day to read to their child, at which time a daily reading tip with a link to a timer web-app would be sent via text.
+
+![GLR Website 2](/img/glr_app_1.jpeg)
