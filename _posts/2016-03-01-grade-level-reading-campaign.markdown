@@ -32,7 +32,7 @@ The reading label post-it notes were conceived by Jessica, a parent at Cherry Hi
 
 ![Jessica Interview](/img/glr_sticker_0.jpeg)
 
-Of all the daily reading materials, it has received the most positive feedback by far from parents across the city. Below are the first rendition and a more fleshed-out rendition of these Reading Labels.
+Of all the daily reading materials, it has received the most positive feedback by far from parents across the city. Each features sample discussion questions by reading experts. Below are the first rendition and a more fleshed-out rendition of these Reading Labels.
 
 ![GLR Sticker 1](/img/glr_sticker_1.jpeg)
 
