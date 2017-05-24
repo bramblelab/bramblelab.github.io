@@ -12,7 +12,7 @@ layout: post
 
 In the fall of 2014, Social Design Associate Becky Slogeris convened a cohort of 7 MICA graduate students to work on a research-based branding, products and services for the Baltimore Campaign for Grade Level Reading. A year later, Bramble Lab was approached to continue that work with a series of daily reading tools and, in 2016, the B'more Read More campaign officially commenced.
 
-The following work was borne out of the partnership of campaign leaders Kimberly Manns and Carrie Finkelstein with that practice-based studio, conducting user research, design thinking workshops and collaborative ideation with the families at Cherry Hill Homes, students and parents at Mount Royal Elementary, B'More for Healthy Babies, The Family League and many others.
+The following work was borne out of the partnership of campaign leaders Kimberly Manns and Carrie Finkelstein with that practice-based studio, conducting user research, design thinking workshops and collaborative ideation with the families at Cherry Hill Homes, students and parents at Mount Royal Elementary, and service providers including The Family League and B'More for Healthy Babies.
 
 Thank you to the coalition members, families and, particuarly, the rest of MICA cohort – Becky Slogeris (MASD '12), Jen Sullivan (MASD '15), Emily Ianaconne (MASD '15), Maysan Madani (MASD '15), Meltem Sahin, and Li Zhang – upon whose insights and work this was based.
 
