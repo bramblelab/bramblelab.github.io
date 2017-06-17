@@ -58,15 +58,27 @@ h1:before{
 }
 
 #work li:nth-of-type(1) h3:before{
-	background-image: url(../svg/bcglr.svg);
+	background-image: url(../svg/monument.svg);
 }
 
 #work li:nth-of-type(2) h3:before{
-	background-image: url(../svg/bee.svg);
+	background-image: url(../svg/ie.svg);
 }
 
 #work li:nth-of-type(3) h3:before{
-	background-image: url(../svg/brambles.svg);
+	background-image: url(../svg/mdcn.svg);
+}
+
+#work li:nth-of-type(4) h3:before{
+	background-image: url(../svg/wateraid.svg);
+}
+
+#work li:nth-of-type(5) h3:before{
+	background-image: url(../svg/bee.svg);
+}
+
+#work li:nth-of-type(6) h3:before{
+	background-image: url(../svg/bcglr.svg);
 }
 
 nav,header,article,section,footer{
