@@ -12,6 +12,7 @@ process: |-
 members:
 - name: Cary Euwer
   story: 'Cary is a design strategist and communications consultant (8 years) trained in human-centered design.
+  He's passionate about using visual media & storytelling for civic engagement and expanding opportunities for youth.
 '
   link: http://caryeuwer.org
 - name: Maged Abdelsalam
