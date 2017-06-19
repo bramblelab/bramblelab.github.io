@@ -11,9 +11,7 @@ process: |-
   As such, we aim to include all stakeholders’ perspectives in our process: the audience, policymakers, similar organizations, and others as needed. Social design is a tool to ground our understanding of a problem in the experience of the people going through it, thereby coming up with solutions from everyone involved.
 members:
 - name: Cary Euwer
-  story: 'Cary is a social impact designer and educator. He struggles with learning
-    disorders from a young age formed a passion for experiential and project-based
-    learning and education reform.
+  story: 'Cary is a design strategist & communications consultant (8 years) trained in human-centered design. He's passionate about using visual media & storytelling for civic engagement and expanding opportunities for youth. He's an expert in crafting communications, identities & experiences for public interest projects. 
 
 '
   link: http://caryeuwer.org
