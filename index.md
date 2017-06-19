@@ -11,9 +11,7 @@ process: |-
   As such, we aim to include all stakeholders’ perspectives in our process: the audience, policymakers, similar organizations, and others as needed. Social design is a tool to ground our understanding of a problem in the experience of the people going through it, thereby coming up with solutions from everyone involved.
 members:
 - name: Cary Euwer
-  story: 'Cary is a design strategist and communications consultant with 8 years' experience,
-  and trained in human-centered design. He's passionate about using visual media and storytelling 
-  for civic engagement.
+  story: 'Cary is a design strategist and communications consultant trained in human-centered design. He is passionate about using visual media and storytelling for civic engagement.
 '
   link: http://caryeuwer.org
 - name: Maged Abdelsalam
