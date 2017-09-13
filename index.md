@@ -7,7 +7,7 @@ description: Based out of the <a href="http://baltimore.impacthub.net">Baltimore
 process: |-
   We believe that communication is crucial to a unified effort around any given problem. And to communicate problems, intentions and ideas in a way that’s strategic, relevant and compelling,  design is an immensely powerful tool.
 
-  As such, we aim to include all stakeholders’ perspectives in our process: the audience, policymakers, similar organizations, and others as needed. Social design is a tool to ground our understanding of a problem in the experience of the people going through it, thereby coming up with solutions from everyone involved.
+  As such, we aim to include users' and stakeholders’ perspectives throughout our social design process. Social design is a tool to ground our understanding of a problem in the lived experience of those affected by it and, thereby, to create solutions with everyone involved.
 members:
 - name: Cary Euwer
   story: 'Cary is a design strategist and communications consultant trained in human-centered design. He is passionate about using visual media and storytelling for civic engagement.
