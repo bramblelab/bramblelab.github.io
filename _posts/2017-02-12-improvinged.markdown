@@ -14,7 +14,7 @@ Ongoing work for Improving Education, a Baltimore-based nonprofit that helps sch
 
 ### Team
 
-The team consisted of Improving Education's CEO Jarrod Bolte, with Cary Euwer serving as design lead and assisting with content. Bramble is honored to have been a part of Jarrod's innovative approach to teacher innovation and improvement science.
+The team consisted of Improving Education's CEO Jarrod Bolte, with Cary Euwer serving as design lead and assisting with content. Bramble is honored to have been a part of Jarrod's innovative approach to applying improvement science to teacher innovation.
 
 ### Early-Grade Literacy Toolkit
 
